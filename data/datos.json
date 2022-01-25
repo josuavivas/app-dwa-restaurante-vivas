@@ -1,0 +1,26 @@
+[
+    {
+        "url" : "img/menu-pizza.jpg",
+        "nombre" : "Pizza Hawayana",
+        "precio": "1.50",
+        "descripcion": "Lorem ipsum dolor sit amet."
+    },
+    {
+        "url" : "img/menu-momo.jpg",
+        "nombre" : "Momo",
+        "precio": "1.80",
+        "descripcion": "Lorem ipsum dolor sit amet."
+    },
+    {
+        "url" : "img/menu-burger.jpg",
+        "nombre" : "Burger",
+        "precio": "2.50",
+        "descripcion": "Lorem ipsum dolor sit amet."
+    },
+    {
+        "url" : "img/menu-pizza.jpg",
+        "nombre" : "Pizza Hawayana",
+        "precio": "1.95",
+        "descripcion": "Lorem ipsum dolor sit amet."
+    }
+]
